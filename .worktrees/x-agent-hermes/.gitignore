@@ -1,0 +1,6 @@
+.env
+out/
+__pycache__/
+*.pyc
+CONTEXT/.obsidian/workspace.json
+CONTEXT/.obsidian/graph.json
